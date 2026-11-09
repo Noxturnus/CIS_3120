@@ -1,0 +1,22 @@
+Smart Expense Tracker Report
+----------------------------
+Rent: 1200
+Food: 350
+Gas: 90
+Entertainment: 150
+Utilities: 200
+
+----------------------------
+Total Expenses: 1990
+Highest Expense: Rent - 1200
+Lowest Expense: Gas - 90
+Average Expense: 398.0
+Categories Above Average: 1
+
+Sorted Expenses (High to Low):
+Rent: 1200
+Food: 350
+Utilities: 200
+Entertainment: 150
+Gas: 90
+----------------------------

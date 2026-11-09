@@ -1,0 +1,28 @@
+October Payroll Report
+----------------------------
+Reporting Period: 2025-10
+Number of Employees: 7
+Company Total Payroll: 45260.0
+
+Department:
+Engineering: 23320.0
+Budget: 24000
+Variance: 680.0
+Research: 1260.0
+Budget: 1800
+Variance: 540.0
+Finance: 8000.0
+Budget: 7800
+Variance: -200.0
+IT: 12680.0
+Budget: 12500
+Variance: -180.0
+-----------------------------
+Answer to the following 3 questions:
+1. Which department has the highest payroll?
+Highest Payroll: Engineering
+2. Which department has the lowest payroll?
+Lowest Payroll: Research
+3. Which department(s) exceeded their budget, and by how much?
+Finance exceeded budget by $200.0
+IT exceeded budget by $180.0

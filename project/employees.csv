@@ -1,0 +1,8 @@
+﻿emp_id,name,dept,pay_type,annual_salary,hourly_rate,hours_worked
+E001,Ada Lovelace,Engineering,SALARIED,120000,0,0
+E002,Alan Turing,Research,HOURLY,0,60,21
+E004,Katherine Johnson,Finance,SALARIED,96000,0,0
+E005,John von Neumann,Engineering,HOURLY,0,55,24
+E007,Linus Torvalds,IT,SALARIED,132000,0,0
+E008,Donald Knuth,Engineering,SALARIED,144000,0,0
+E009,Margaret Hamilton,IT,HOURLY,0,70,24

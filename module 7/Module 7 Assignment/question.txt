@@ -1,0 +1,80 @@
+Write a Python program that simulates a Smart Expense Tracker. Your program should:
+
+Ask the user to enter several expense categories ( such as Rent, Food, Gas, Entertainment, Utilities) and the amount spent in each.
+You may predefine categories or allow the user to enter them dynamically.
+Store these values in a list.
+Write the data to a file named expenses.txt.
+Example :
+Rent: 1200 
+
+Food: 350 
+
+Gas: 90 
+
+Entertainment: 150 
+
+Utilities: 200
+
+
+Perform and display calculations:
+Total monthly expenses
+Highest and lowest expense (with category names)
+Average spending per category
+Number of categories above the average
+Append these results to the same file in a neatly formatted report section.
+Sort and display the expenses from highest to lowest in both the console and the file.
+Optional: allow the user to add new expenses later (append mode) without overwriting existing data.
+Expected Output Example (in expenses.txt):
+
+Smart Expense Tracker Report
+
+----------------------------
+
+Rent: 1200
+
+Food: 350
+
+Gas: 90
+
+Entertainment: 150
+
+Utilities: 200
+
+ 
+
+----------------------------
+
+Total Expenses: 1990
+
+Highest Expense: Rent - 1200
+
+Lowest Expense: Gas - 90
+
+Average Expense: 398.0
+
+Categories Above Average: 1
+
+----------------------------
+
+ 
+
+Sorted Expenses (High to Low):
+
+Rent: 1200
+
+Food: 350
+
+Utilities: 200
+
+Entertainment: 150
+
+Gas: 90
+
+----------------------------
+
+ 
+
+What to Submit:
+
+Python file: smart_expense_tracker.py
+Text file: expenses.txt (after you run the program)
